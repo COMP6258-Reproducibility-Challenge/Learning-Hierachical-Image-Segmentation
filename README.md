@@ -1,4 +1,4 @@
-# This is for reproducibility challenge for ICLR2024 paper: "Learning Hierarcical Image Segmentation For Recognition And By Recognition"
+# This is for reproducibility challenge of ICLR2024 paper: "Learning Hierarcical Image Segmentation For Recognition And By Recognition"
 
 # Instructions
 Original Code is availabe at https://github.com/twke18/CAST  
